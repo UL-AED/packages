@@ -1,6 +1,7 @@
 # packages
 
-Neste repo, treinámos:
+Neste repo treinámos:
 * criação de modulos
 * criação de packages
-* e sua utilização 
+
+Criámos um programa que utiliza estes packages
